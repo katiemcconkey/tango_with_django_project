@@ -30,7 +30,7 @@ SECRET_KEY = 'b(b(&(w$!==kidaw=vj*qpm5f6isv94l980$78wlkp$1q84-7v'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-SESSION_EXPIRE_AT_BROWSER_CLOSE = True
+##SESSION_EXPIRE_AT_BROWSER_CLOSE = True
 
 ALLOWED_HOSTS = []
 
